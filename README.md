@@ -27,6 +27,7 @@ sequenceDiagram
     Frontend->>+Lens API: Fetch Collectible Posts
     User->>+Smart Contract: Collect Post
     Smart Contract-->>-User: NFT Receipt
+```
 
 🚀 Run It Yourself
 Prerequisites
