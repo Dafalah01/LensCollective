@@ -29,19 +29,22 @@ sequenceDiagram
     Smart Contract-->>-User: NFT Receipt
 ```
 
-🚀 Run It Yourself
-Prerequisites
-Node.js v18+
+---
 
-MetaMask/Coinbase Wallet
+## 🚀 Run It Yourself
 
-Quick Start
-bash
+### Prerequisites
+- Node.js v18+
+- MetaMask atau Coinbase Wallet
+
+### Quick Start
+```bash
 git clone https://github.com/Dafalah01/lenscollective.git
 cd lenscollective
 npm install
 npm run dev
-Configure
-Duplicate .env.example as .env.local
+```
 
-Add your WalletConnect ID
+### Configure
+- Duplikat file `.env.example` menjadi `.env.local`
+- Tambahkan **WalletConnect ID** ke `.env.local`
