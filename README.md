@@ -31,6 +31,16 @@ sequenceDiagram
 
 ---
 
+## Tech Stack
+### Core Dependencies
+| Package | Version | Purpose |
+|---------|---------|---------|
+| `@lens-protocol/react-web` | ^2.3.2 | Lens Protocol integration |
+| `connectkit` | ^1.9.0 | Wallet connection UI |
+| `wagmi` + `viem` | ^2.15.2 | Ethereum interactions |
+| `@tanstack/react-query` | ^5.76.1 | Data fetching |
+| `react-router-dom` | ^7.5.3 | Client-side routing |
+
 ## 🚀 Run It Yourself
 
 ### Prerequisites
