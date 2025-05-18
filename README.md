@@ -44,7 +44,3 @@ cd lenscollective
 npm install
 npm run dev
 ```
-
-### Configure
-- Duplikat file `.env.example` menjadi `.env.local`
-- Tambahkan **WalletConnect ID** ke `.env.local`
