@@ -54,3 +54,5 @@ cd lenscollective
 npm install
 npm run dev
 ```
+### 🔗 Live Demo
+👉 [Try it here!](https://lens-collective.vercel.app/)
