@@ -17,7 +17,7 @@ const dummyCollections = [
     date: "May 8",
     stats: { likes: 4, comments: 7 },
     media: "https://i.pinimg.com/736x/41/06/b3/4106b37e6f8483a756ab76fc1531af16.jpg",
-    isCollected: false,
+    isCollected: true,
     comments: []
   },
   {
@@ -29,7 +29,7 @@ const dummyCollections = [
     content: "This is a text-only collection that can still be collected",
     date: "May 9",
     stats: { likes: 23, comments: 3 },
-    isCollected: false,
+    isCollected: true,
     comments: []
   }
 ];
